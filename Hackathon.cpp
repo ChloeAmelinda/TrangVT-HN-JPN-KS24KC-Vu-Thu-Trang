@@ -140,7 +140,7 @@ int main(){
 						break;
 					}
 				}
-				if(position <n && position >=0 &&position==check)
+				if(position <n && position >=0)
 				{
 					printf("%d nam o vi tri thu %d trong mang \n ", check, position+1);
 					break;
